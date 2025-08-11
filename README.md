@@ -35,5 +35,5 @@ Her harf, ilgili satır ve sütun kombinasyonları ile ayrı ayrı oluşturulmu�
 2. 8085 mikroişlemci deney setine proje kodunu yükleyin.
 3. Programı çalıştırarak LED matris üzerinde harflerin sırasıyla gösterilmesini izleyin.
 
-## 📜 Lisans
+##  Lisans
 Bu proje, eğitim amaçlı olarak geliştirilmiştir. Serbestçe kullanılabilir ve geliştirilebilir.
